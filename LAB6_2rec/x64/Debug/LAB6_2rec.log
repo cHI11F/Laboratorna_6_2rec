@@ -1,0 +1,3 @@
+﻿  LAB6_2rec.cpp
+D:\Visual Studio проекти\LAB6_2rec\LAB6_2rec\LAB6_2rec.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LAB6_2rec.vcxproj -> D:\Visual Studio проекти\LAB6_2rec\x64\Debug\LAB6_2rec.exe
